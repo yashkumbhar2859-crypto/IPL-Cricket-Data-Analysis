@@ -1,5 +1,4 @@
 # IPL-Cricket-Data-Analysis
-#  IPL Data Analysis (EDA Project)
 
 ##  Project Overview
 This is a practice project based on the Indian Premier League (IPL) dataset.  
